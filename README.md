@@ -1,3 +1,38 @@
+
+-
+preview
+<img width="1500" height="520" alt="1" src="https://github.com/user-attachments/assets/124569f2-f39f-49e0-bcbf-cd50f0ecf682" />
+<img width="1390" height="710" alt="3" src="https://github.com/user-attachments/assets/f8027907-9e62-4c9f-b69f-717397c04edd" />
+<img width="1919" height="589" alt="2" src="https://github.com/user-attachments/assets/243e099e-2358-414e-8188-1215a8cff27a" />
+-
+
+-
+installation
+<img width="1918" height="926" alt="1" src="https://github.com/user-attachments/assets/d3ea38d1-8993-420c-8256-3809258c5480" />
+<img width="1919" height="838" alt="2" src="https://github.com/user-attachments/assets/d980584f-094c-4e52-a7e1-cb38c886daf9" />
+<img width="643" height="719" alt="3" src="https://github.com/user-attachments/assets/3e3b3866-d15a-4509-97e7-67192c14f7b3" />
+<img width="1919" height="1079" alt="4" src="https://github.com/user-attachments/assets/3282642d-6a32-4ebf-9181-e3e8f95e75a2" />
+<img width="1928" height="1034" alt="5" src="https://github.com/user-attachments/assets/795d5b97-77be-44e0-ba0a-a0d9bb44283b" />
+
+-
+
+-
+checking
+
+<img width="1919" height="1081" alt="1" src="https://github.com/user-attachments/assets/54421450-8e80-4cc5-b0c3-f2f4716b84ec" />
+<img width="1918" height="380" alt="2" src="https://github.com/user-attachments/assets/0f8ba325-a2e6-4f11-8357-35b2db754f9c" />
+<img width="1918" height="1029" alt="3" src="https://github.com/user-attachments/assets/ff582b90-c534-45f4-b947-fa438b675f6a" />
+<img width="1919" height="1029" alt="4" src="https://github.com/user-attachments/assets/8eb3fbe7-6b74-4d88-84a2-0d8ab5857e80" />
+<img width="1919" height="336" alt="5" src="https://github.com/user-attachments/assets/ba9a67d7-4039-4f7c-aa7f-cc4ebb8d5bca" />
+
+
+
+-
+css
+<img width="1919" height="475" alt="1" src="https://github.com/user-attachments/assets/6d6199ad-9854-4b6d-9cbc-b9aab76497b8" />
+<img width="1919" height="475" alt="2" src="https://github.com/user-attachments/assets/896a5647-4ae3-4b59-94a3-08b8a895a665" />
+
+--
 # M.MANIKANDAN-ANCIENT-TAMIL-BRAHMI
 
 **Free, open-source handwritten Tamil font** with Tamil-Brahmi inspired letters. Formats: **TTF, OTF, WOFF**. Works on Windows, macOS, Linux, Android, iOS and websites.
