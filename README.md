@@ -10,9 +10,6 @@ For any enquiries, contact: **9787091093**
 Download **TTF, OTF and WOFF** for Windows, macOS, Linux, Android, iOS and websites.
 Licensed under the **SIL Open Font License 1.1** - free for personal and commercial use.
 
-![Font preview](preview3.png)
-
-[**Download latest release**](../../releases/latest) · [Report an issue](../../issues) · [Install guide](#installation)
 
 ---
 
