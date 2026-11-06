@@ -1,4 +1,4 @@
-# M.MANIKANDAN-ANCIENT-TAMIL-BRAHMI
+# ANCIENT-TAMIL-BRAHMI
 
 **Free, open-source handwritten Tamil font** with Tamil-Brahmi inspired letters. Formats: **TTF, OTF, WOFF**. Works on Windows, macOS, Linux, Android, iOS and websites.
 
