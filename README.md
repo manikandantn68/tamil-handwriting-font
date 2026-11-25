@@ -12,7 +12,6 @@
 
 ---
 ## 1. Preview
-
 <p align="center">
  <img width="1390" height="652" alt="WhatsApp Image 2026-11-06 at 5 43 36 AM" src="https://github.com/user-attachments/assets/170a5ecc-7c57-4900-84a0-74f0389590a8" />
 </p>
