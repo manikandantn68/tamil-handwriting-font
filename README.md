@@ -41,7 +41,7 @@ Or clone the repository:
 git clone https://github.com/manikandantn68/tamil-handwriting-font.git
 ```
 
-Font files are in the `desktop/` folder (TTF and OTF) and the `web/` folder (WOFF).
+In the source repository, the font bundle is stored at `ANCIENT-TAMIL-BRAHMI/font-file/M.MANIKANDAN-ANCIENT-TAMIL-BRAHMI.rar`. Extract this archive to access the TTF, OTF, and WOFF files.
 
 > Install **only one** of the TTF or OTF files. They share the same name.
 > If you installed an older version, uninstall it first.
@@ -118,7 +118,7 @@ If you still see a normal font: restart the app (or the computer), make sure onl
 
 ### Check in a browser
 
-Download the repo and open `web/example.html` in your browser. It loads the WOFF font and shows sample text.
+The source repository currently does not include `web/example.html`. To preview the font in a browser, extract the WOFF file from the archive and use the CSS example above in your own HTML page.
 
 ---
 
@@ -128,7 +128,7 @@ Use the font on a website.
 
 ### Option A: host the font files yourself
 
-Copy `web/M.MANIKANDAN-ANCIENT-TAMIL-BRAHMI-TTF.woff` to your website, then add:
+Copy the extracted WOFF file to your website, then add:
 
 ```css
 @font-face {
@@ -145,12 +145,12 @@ Copy `web/M.MANIKANDAN-ANCIENT-TAMIL-BRAHMI-TTF.woff` to your website, then add:
 }
 ```
 
-### Option B: load it from the CDN (no download needed)
+### Option B: use a CDN after publishing a standalone WOFF
 
 ```css
 @font-face {
   font-family: "M.MANIKANDAN-ANCIENT-TAMIL-BRAHMI";
-  src: url("https://cdn.jsdelivr.net/gh/manikandantn68/tamil-handwriting-font@main/web/M.MANIKANDAN-ANCIENT-TAMIL-BRAHMI-TTF.woff") format("woff");
+  src: url("https://example.com/path/to/font.woff") format("woff"); /* Replace with your published WOFF URL. */
   font-display: swap;
 }
 ```
