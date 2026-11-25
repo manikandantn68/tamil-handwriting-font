@@ -211,12 +211,12 @@ Other Latin letters map to the closest-sounding Tamil letter: `b B f F P` = ப,
 
 **Why does it not show in WhatsApp, Notepad or my browser?** Those apps use their own fonts. Use the font in Word, Canva or another design app, or use the CSS above on a website.
 
-**Can I add the missing letters?** Yes. Draw them on the template (`oldtamil.pdf`), then open an issue or pull request.
+**Can I add the missing letters?** Yes. Download the [latest all-formats ZIP](https://github.com/manikandantn68/tamil-handwriting-font/releases/latest) to get the drawing template (`oldtamil.pdf`), draw the missing glyphs, then open an issue or pull request.
 
 ## Contributing
 
 1. Fork the repo.
-2. Draw the missing glyphs on the template.
+2. Download the [latest all-formats ZIP](https://github.com/manikandantn68/tamil-handwriting-font/releases/latest) and use its `oldtamil.pdf` template to draw the missing glyphs.
 3. Open a pull request with your scan or photo.
 
 ## Author
