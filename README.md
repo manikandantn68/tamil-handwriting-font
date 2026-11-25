@@ -11,7 +11,6 @@
 **Quick links:** [Preview](#1-preview) · [Installation](#2-installation) · [Checking](#3-checking) · [CSS](#4-css) · [Typing guide](#typing-guide) · [FAQ](#faq)
 
 ---
-
 ## 1. Preview
 
 <p align="center">
